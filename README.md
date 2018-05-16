@@ -26,3 +26,4 @@ Please note the following annotations, see the rules.jpg for examples:
 - For rule 5, the 5 should be blue.
 - For rule 6, there should be red smiley faces in the hole of the R of "rules" and P of "permission"
 - For rule 8, the text should be double height
+- For rule 11, the text should be in Comic Sans
